@@ -25,4 +25,5 @@ student s1,*sp;
 sp=&s1;
 sp->read();
 sp->dispaly();
+getch();
 }
